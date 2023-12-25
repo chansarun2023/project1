@@ -12,7 +12,7 @@
 <body>
   <div class="container-fluid">
      
-    <nav class="navbar navbar-expand-lg bg-body-tertiary fixed-top">
+    <nav class="navbar navbar-expand-lg bg-primary fixed-top">
         <div class="container-lg">
           <a class="navbar-brand" href="#"><strong>RUN</strong></a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#nav" ">
